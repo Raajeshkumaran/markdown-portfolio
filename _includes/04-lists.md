@@ -1,5 +1,5 @@
-family 
-friends
-bike 
-car
-money
+❤️	:heart:
+👍	:+1:
+😄	:smile:
+✨	:sparkles:
+🎉	:tada:
